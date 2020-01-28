@@ -1,3 +1,4 @@
+#this is the comment
 output "v1" {
   value = var.v1
 }
